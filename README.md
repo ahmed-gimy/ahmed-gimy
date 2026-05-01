@@ -1,69 +1,114 @@
-<!--
-### Hi there 👋
+<div align="center">
 
+# Ahmed Gamal Hussein
+### 🚀 Mid-Level Front-End Developer
 
-**ahmed-gimy/ahmed-gimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Angular · TypeScript · Next.js · React · RxJS · Docker**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gamal-9a6095235/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed_gimy@outlook.com)
+[![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Clean code, measurable results, and architecture that scales."*
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</div>
 
-<h3 align="center">
-  Welcome to Ahmed Gamal's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+---
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+## 👋 About Me
 
-- 🏢 I'm a Front-end web developer at Restart Technology
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular or anything related to web development. 
-<!--
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. 
--->
+I am a Front-End Developer with **3+ years of experience** engineering enterprise-scale web applications, primarily utilizing **Angular** and **TypeScript**. I am deeply committed to clean architecture, modular component design, and delivering exceptional performance. 
 
+* 🏗️ **Sole Architect:** Engineered 70%+ of a language-learning platform targeting **100,000+ users** independently.
+* 🏥 **Enterprise Delivery:** Shipped complex dashboards for a healthcare platform serving **65,000+ clinics** across Canada.
+* ⚡ **Performance Optimization:** Achieved a **50% bundle size reduction** (3 MB → 1.5 MB) and **50% faster load times** (4s → 2s) in production environments.
+* 🌐 **Internationalization:** Highly proficient in crafting globalized layouts, including complex Right-to-Left (RTL) styling and Arabic typography integration.
+* 🐳 **DevOps Capable:** Configured **Docker, Nginx, and SSL** for multi-project deployments from scratch.
 
-### Connect with Me :
+---
 
-<a href="https://www.linkedin.com/in/ahmed-gamal-9a6095235/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmedserag2" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
--->
+## 🛠️ Technical Arsenal
 
+### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white)
 
+### Styling & UI Libraries
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
--->
+### Back-End & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🌟 Featured Engineering Projects
+
+### 🎓 [Passu](https://passu.ca/home) | Language Learning Platform
+> **Stack:** Angular · TypeScript · RxJS · Firebase · Stripe · Ngx-translate
+
+A comprehensive SaaS platform for **IELTS and TCF exam preparation**, supporting English and French learners globally.
+* 🃏 Engineered **13+ interactive flashcard templates** (MCQ, Drag & Drop, Rearrange Letters).
+* 💳 Configured comprehensive **Stripe subscription management** including multi-currency and credit systems.
+* 🌐 Implemented full **multilingual support** (Arabic/English/French) utilizing Ngx-translate.
+* ⚡ Executed aggressive optimization strategies to secure a **50% performance improvement** in core vitals.
+
+### 🏥 [Empower Health](https://empower.ca/) | Healthcare Ecosystem
+> **Stack:** Angular 18 · SSR · RxJS · Docker · Nginx · Bootstrap
+
+Scalable healthcare management dashboards servicing over **65,000+ clinics**.
+* 🔗 Seamlessly integrated **Angular 18 SSR** into a legacy Ruby on Rails environment.
+* 🐳 Architected secure multi-service deployments using **Docker, Nginx, and automated SSL (mkcert)**.
+* 🗺️ Delivered a complex **Google Maps integration** for granular clinic discovery features.
+
+### 🏫 Laam | Multi-Role Educational Dashboard
+> **Stack:** Next.js · TypeScript · Redux Toolkit · RTK Query · Ant Design · Tailwind CSS
+
+A massive-scale school management system comprising **250+ distinct interface screens**.
+* 👥 Developed secure, role-based environments for **Admins, Managers, and Teachers**.
+* 🛠️ Resolved a critical **SSR hydration bug** tied to a custom gender hook, eliminating initial load content flicker.
+* 🌍 Engineered a fully **Arabic gender-aware (feminization)** content delivery system.
+
+### 🚀 Additional Noteworthy Implementations
+* **Squadio Platform Clone:** Replicated enterprise-level responsive design patterns using Angular and Tailwind CSS.
+* **Team Scheduling Module:** Built an event-driven UI using the `Calendly.initInlineWidget` and webhooks to track `event_scheduled` statuses in real-time.
+* **Full-Stack E-Commerce:** End-to-end platform utilizing an Angular/NgRx frontend powered by a NestJS and MongoDB backend.
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| **Front-End Developer** | [Restart Technology](https://restart-technology.com/) | Mar 2024 – Present |
+| **Front-End Developer** | [WeblyTech](https://weblytech.com/) | Jan 2023 – Mar 2024 |
+| **Front-End Developer** | Freelance | May 2022 – Present |
+
+---
+
+## 📫 Let's Connect
+
+I am currently open to exploring new remote or on-site (Cairo) opportunities.
+
+* 📧 **Email:** [ahmed_gimy@outlook.com](mailto:ahmed_gimy@outlook.com)
+* 💼 **LinkedIn:** [Ahmed Gamal Hussein](https://www.linkedin.com/in/ahmed-gamal-9a6095235/)
+* 💻 **VS Code Fanatic & Clean Code Advocate**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-gimy&color=1A56A0&style=flat-square)
+
+</div>
