@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ahmed Gamal Hussein
-### 🚀 Mid-Level Front-End Developer
+### 🚀 Front-End Developer
 
 **Angular · TypeScript · Next.js · React · RxJS · Docker**
 
